@@ -29,7 +29,7 @@ port = input("port    : ")
 os.system("clear")
 os.system("figlet Attack Starting")
 print "[                    ] 0% "
-time.sleep(1)
+time.sleep(0)
 print "[=====               ] 25%"
 time.sleep(1)
 print "[==========          ] 50%"
